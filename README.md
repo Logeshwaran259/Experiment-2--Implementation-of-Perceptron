@@ -44,8 +44,8 @@ Print the accuracy
 
 ## PROGRAM:
 ~~~
-Name: Ranjith G.
-Reg No.: 212220220034
+Name: logeshwaran S
+Reg No.: 212220040081
 ~~~
 
 ~~~
